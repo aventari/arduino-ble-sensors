@@ -19,6 +19,9 @@ This is the arduino firmware component and hardware documenation
 - Pressure sensor - https://www.amazon.com/OTUAYAUTO-Universal-Pressure-Transducer-Solenoid/dp/B08G8MCGKH
 
 0-100 psi 5v reference outputs .5 to 4.5 (0-100psi)
+Red: + 5 VDC input.
+Black: Ground
+Green: Sensor output.
 
 ## Dev env
 Uses Platform.io (currently 6.1.6 core) which is a plugin for VS Code (currently using v1.77.3)
